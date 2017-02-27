@@ -1,0 +1,2 @@
+example = ”EDOCNYW”
+puts example
